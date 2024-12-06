@@ -1,1 +1,1 @@
-# marketing_analysis
+# marketing_analysis The "Marketing Campaign Response Dataset" is a comprehensive collection of variables related to customer demographics, purchasing behaviors, and responses to marketing offers. This dataset is instrumental in understanding and predicting customer responses to various marketing campaigns, enabling businesses to refine their strategies and maximize their marketing efforts.
